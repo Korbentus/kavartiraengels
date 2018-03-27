@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <input tilescale="1.009766" prev0url="images/48_Location_1_o_preview_0.jpg" tilesize="1024" prev2url="images/48_Location_1_o_preview_2.jpg" prev1url="images/48_Location_1_o_preview_1.jpg" tile5url="images/48_Location_1_o_5.jpg" levelingroll="0" levelingpitch="0" tile0url="images/48_Location_1_o_0.jpg" tile3url="images/48_Location_1_o_3.jpg" tile1url="images/48_Location_1_o_1.jpg" tile2url="images/48_Location_1_o_2.jpg" tile4url="images/48_Location_1_o_4.jpg" prev3url="images/48_Location_1_o_preview_3.jpg" prev5url="images/48_Location_1_o_preview_5.jpg" prev4url="images/48_Location_1_o_preview_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-3.47" fov="70" pan="90.95"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" pan="360"/>
+    </view>
+    <userdata tags="lumion" longitude="" author="" source="" latitude="" datetime="" comment="" copyright="" title="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" width="180" borderalpha="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot target="" skinid="ht_node" url="{node2}" tilt="-5.84" id="Point01" pan="120.95" title="ВИД 2" description=""/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="45.09" alpha="80" type="1" id="Lensflare01" pan="130.67" blinding="90"/>
+    </media>
+    <transition softedge="0" zoomout="0" blendtime="1" zoomfov="20" zoomoutpause="1" zoomin="0" type="diptocolor" zoomspeed="2" enabled="1" blendcolor="0x000000"/>
+    <autorotate nodedelay="0.00" startloaded="0" delay="9.00" returntohorizon="0.000" speed="0.100" noderandom="1" useanimation="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="0" hideabout="0" dblclickfullscreen="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input tilescale="1.009766" prev0url="images/48_Location_2_o_preview_0.jpg" tilesize="1024" prev2url="images/48_Location_2_o_preview_2.jpg" prev1url="images/48_Location_2_o_preview_1.jpg" tile5url="images/48_Location_2_o_5.jpg" levelingroll="0" levelingpitch="0" tile0url="images/48_Location_2_o_0.jpg" tile3url="images/48_Location_2_o_3.jpg" tile1url="images/48_Location_2_o_1.jpg" tile2url="images/48_Location_2_o_2.jpg" tile4url="images/48_Location_2_o_4.jpg" prev3url="images/48_Location_2_o_preview_3.jpg" prev5url="images/48_Location_2_o_preview_5.jpg" prev4url="images/48_Location_2_o_preview_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="100.06" fovmode="0">
+      <start tilt="-1.5" fov="70" pan="105.37"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" pan="360"/>
+    </view>
+    <userdata tags="lumion" longitude="" author="" source="" latitude="" datetime="" comment="" copyright="" title="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" width="180" borderalpha="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot target="" skinid="ht_node" url="{node1}" tilt="-8.04" id="Point01" pan="102.98" title="ВИД 1" description=""/>
+      <hotspot target="" skinid="ht_node" url="{node3}" tilt="-35.75" id="Point02" pan="101.96" title="Одинаковые двери" description=""/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="21.09" alpha="80" type="1" id="Lensflare01" pan="97" blinding="50"/>
+      <lensflare color="0xffffff" tilt="43.51" alpha="80" type="6" id="Lensflare02" pan="-10.48" blinding="50"/>
+      <lensflare color="0xffffff" tilt="37.02" alpha="80" type="6" id="Lensflare03" pan="-27.53" blinding="50"/>
+      <lensflare color="0xffffff" tilt="33.68" alpha="80" type="1" id="Lensflare04" pan="175.44" blinding="90"/>
+    </media>
+    <transition softedge="0" zoomout="0" blendtime="1" zoomfov="20" zoomoutpause="1" zoomin="0" type="diptocolor" zoomspeed="2" enabled="1" blendcolor="0x000000"/>
+    <autorotate nodedelay="0.00" startloaded="0" delay="9.00" returntohorizon="0.000" speed="0.100" noderandom="1" useanimation="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="0" hideabout="0" dblclickfullscreen="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input tilescale="1.009766" prev0url="images/48_Location_3_o_preview_0.jpg" tilesize="1024" prev2url="images/48_Location_3_o_preview_2.jpg" prev1url="images/48_Location_3_o_preview_1.jpg" tile5url="images/48_Location_3_o_5.jpg" levelingroll="0" levelingpitch="0" tile0url="images/48_Location_3_o_0.jpg" tile3url="images/48_Location_3_o_3.jpg" tile1url="images/48_Location_3_o_1.jpg" tile2url="images/48_Location_3_o_2.jpg" tile4url="images/48_Location_3_o_4.jpg" prev3url="images/48_Location_3_o_preview_3.jpg" prev5url="images/48_Location_3_o_preview_5.jpg" prev4url="images/48_Location_3_o_preview_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="89.14" fovmode="0">
+      <start tilt="-2.07" fov="70" pan="88.77"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" pan="360"/>
+    </view>
+    <userdata tags="lumion" longitude="" author="" source="" latitude="" datetime="" comment="" copyright="" title="" description="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" width="180" borderalpha="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" enabled="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot target="" skinid="ht_node" url="{node2}" tilt="-34.46" id="Point01" pan="88.14" title="Разные двери" description=""/>
+      <hotspot target="" skinid="ht_node" url="{node1}" tilt="-8.13" id="Point02" pan="88.67" title="ВИД 1" description=""/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="20.98" alpha="80" type="1" id="Lensflare01" pan="82.76000000000001" blinding="50"/>
+      <lensflare color="0xffffff" tilt="33.91" alpha="80" type="1" id="Lensflare02" pan="161.23" blinding="90"/>
+      <lensflare color="0xffffff" tilt="43.28" alpha="80" type="6" id="Lensflare03" pan="-24.48" blinding="50"/>
+      <lensflare color="0xffffff" tilt="36.84" alpha="80" type="6" id="Lensflare04" pan="-41.8" blinding="50"/>
+    </media>
+    <transition softedge="0" zoomout="0" blendtime="1" zoomfov="20" zoomoutpause="1" zoomin="0" type="diptocolor" zoomspeed="2" enabled="1" blendcolor="0x000000"/>
+    <autorotate nodedelay="0.00" startloaded="0" delay="9.00" returntohorizon="0.000" speed="0.100" noderandom="1" useanimation="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="0" hideabout="0" dblclickfullscreen="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+</tour>
